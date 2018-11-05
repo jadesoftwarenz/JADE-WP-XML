@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<!--This document includes Person Details-->
+<ALL_PEOPLE_DETAILS>
+  <DEPT_PEOPLE NAME="Human Resources">
+    <PERSON_DETAILS>
+      <PERSON_FIRST_NAME>John</PERSON_FIRST_NAME>
+      <PERSON_LAST_NAME>Doe</PERSON_LAST_NAME>
+      <OCCUPATION>Financial Adviser</OCCUPATION>
+      <CONTACT_DETAILS>
+        <ADDRESS_DETAILS TYPE="Home">
+          <ADDRESS_LINE_1>Strode House</ADDRESS_LINE_1>
+          <ADDRESS_LINE_2>143 Paritai Drive</ADDRESS_LINE_2>
+          <SUBURB>Orakei</SUBURB>
+          <CITY>Auckland</CITY>
+          <COUNTRY>NEW ZEALAND</COUNTRY>
+          <POSTCODE>1005</POSTCODE>
+        </ADDRESS_DETAILS>
+        <EMAIL TYPE="Work">jdoe@financialadvisement.co.nz</EMAIL>
+        <PHONE TYPE="Home">+64 9 576 8352</PHONE>
+        <PHONE TYPE="Work">+64 9 523 6495</PHONE>
+        <PHONE TYPE="Cell">+64 21 353 642</PHONE>
+      </CONTACT_DETAILS>
+    </PERSON_DETAILS>
+    <PERSON_DETAILS>
+      <PERSON_FIRST_NAME>Mario</PERSON_FIRST_NAME>
+      <PERSON_LAST_NAME>Dolce</PERSON_LAST_NAME>
+      <OCCUPATION>Business Analyst</OCCUPATION>
+      <CONTACT_DETAILS>
+        <ADDRESS_DETAILS TYPE="Home">
+          <ADDRESS_LINE_1>69 St James's Street</ADDRESS_LINE_1>
+          <ADDRESS_LINE_2/>
+          <SUBURB/>
+          <CITY>London</CITY>
+          <COUNTRY>UNITED KINGDOM</COUNTRY>
+          <POSTCODE>SW1A 1PJ</POSTCODE>
+        </ADDRESS_DETAILS>
+        <EMAIL TYPE="Work">mariod@uk.com</EMAIL>
+        <PHONE TYPE="Home">+44 20 7493 1164</PHONE>
+        <PHONE TYPE="Work">+44 21 7542 2314</PHONE>
+      </CONTACT_DETAILS>
+    </PERSON_DETAILS>
+    <PERSON_DETAILS>
+      <PERSON_FIRST_NAME>Joanne</PERSON_FIRST_NAME>
+      <PERSON_LAST_NAME>Howard</PERSON_LAST_NAME>
+      <OCCUPATION>Chief Executive Officer</OCCUPATION>
+      <CONTACT_DETAILS>
+        <ADDRESS_DETAILS TYPE="Home">
+          <ADDRESS_LINE_1>Suite 43</ADDRESS_LINE_1>
+          <ADDRESS_LINE_2>89 Kent Street</ADDRESS_LINE_2>
+          <SUBURB>Central City</SUBURB>
+          <CITY>Sydney</CITY>
+          <COUNTRY>AUSTRALIA</COUNTRY>
+          <POSTCODE>NSW 2000</POSTCODE>
+        </ADDRESS_DETAILS>
+        <EMAIL TYPE="Work">j.howard@company.com.au</EMAIL>
+        <PHONE TYPE="Home">+61 2 9256 2222</PHONE>
+        <PHONE TYPE="Work">+61 2 9246 4621</PHONE>
+        <PHONE TYPE="Cell">+61 41 378 6787</PHONE>
+      </CONTACT_DETAILS>
+    </PERSON_DETAILS>
+    <PERSON_DETAILS>
+      <PERSON_FIRST_NAME>Wendy</PERSON_FIRST_NAME>
+      <PERSON_LAST_NAME>Jones</PERSON_LAST_NAME>
+      <OCCUPATION>Unemployed</OCCUPATION>
+      <CONTACT_DETAILS>
+        <ADDRESS_DETAILS TYPE="Home">
+          <ADDRESS_LINE_1>143 Darlinghurst Road</ADDRESS_LINE_1>
+          <ADDRESS_LINE_2/>
+          <SUBURB>Darlinghurst</SUBURB>
+          <CITY>Sydney</CITY>
+          <COUNTRY>AUSTRALIA</COUNTRY>
+          <POSTCODE/>
+        </ADDRESS_DETAILS>
+        <EMAIL TYPE="Home">wjones@hotmail.com</EMAIL>
+        <PHONE TYPE="Home">+61 2 9767 2514</PHONE>
+        <PHONE TYPE="Cell">+61 42 452 2578</PHONE>
+      </CONTACT_DETAILS>
+    </PERSON_DETAILS>
+    <PERSON_DETAILS>
+      <PERSON_FIRST_NAME>Martin</PERSON_FIRST_NAME>
+      <PERSON_LAST_NAME>Cicio</PERSON_LAST_NAME>
+      <OCCUPATION>IT Director</OCCUPATION>
+      <CONTACT_DETAILS>
+        <ADDRESS_DETAILS TYPE="Home">
+          <ADDRESS_LINE_1>Apartment 31</ADDRESS_LINE_1>
+          <ADDRESS_LINE_2>352 Customhouse Quay</ADDRESS_LINE_2>
+          <SUBURB>Central City</SUBURB>
+          <CITY>Auckland</CITY>
+          <COUNTRY>NEW ZEALAND</COUNTRY>
+          <POSTCODE>1001</POSTCODE>
+        </ADDRESS_DETAILS>
+        <EMAIL TYPE="Work">joe.public@itdirectors.co.nz</EMAIL>
+        <PHONE TYPE="Home">+64 9 522 8475</PHONE>
+        <PHONE TYPE="Work">+64 9 514 7522</PHONE>
+        <PHONE TYPE="Cell">+64 275 292 467</PHONE>
+      </CONTACT_DETAILS>
+    </PERSON_DETAILS>
+  </DEPT_PEOPLE>
+  <DEPT_PEOPLE NAME="Finance">
+    <PERSON_DETAILS>
+      <PERSON_FIRST_NAME>Vito</PERSON_FIRST_NAME>
+      <PERSON_LAST_NAME>Corleone</PERSON_LAST_NAME>
+      <OCCUPATION>Financial Adviser</OCCUPATION>
+      <CONTACT_DETAILS>
+        <ADDRESS_DETAILS TYPE="Home">
+          <ADDRESS_LINE_1>Strode House</ADDRESS_LINE_1>
+          <ADDRESS_LINE_2>143 Paritai Drive</ADDRESS_LINE_2>
+          <SUBURB>Orakei</SUBURB>
+          <CITY>Auckland</CITY>
+          <COUNTRY>NEW ZEALAND</COUNTRY>
+          <POSTCODE>1005</POSTCODE>
+        </ADDRESS_DETAILS>
+        <EMAIL TYPE="Work">jdoe@financialadvisement.co.nz</EMAIL>
+        <PHONE TYPE="Home">+64 9 576 8352</PHONE>
+        <PHONE TYPE="Work">+64 9 523 6495</PHONE>
+        <PHONE TYPE="Cell">+64 21 353 642</PHONE>
+      </CONTACT_DETAILS>
+    </PERSON_DETAILS>
+    <PERSON_DETAILS>
+      <PERSON_FIRST_NAME>Esperanza</PERSON_FIRST_NAME>
+      <PERSON_LAST_NAME>Martinez</PERSON_LAST_NAME>
+      <OCCUPATION>Business Analyst</OCCUPATION>
+      <CONTACT_DETAILS>
+        <ADDRESS_DETAILS TYPE="Home">
+          <ADDRESS_LINE_1>69 St James's Street</ADDRESS_LINE_1>
+          <ADDRESS_LINE_2/>
+          <SUBURB/>
+          <CITY>London</CITY>
+          <COUNTRY>UNITED KINGDOM</COUNTRY>
+          <POSTCODE>SW1A 1PJ</POSTCODE>
+        </ADDRESS_DETAILS>
+        <EMAIL TYPE="Work">mariod@uk.com</EMAIL>
+        <PHONE TYPE="Home">+44 20 7493 1164</PHONE>
+        <PHONE TYPE="Work">+44 21 7542 2314</PHONE>
+      </CONTACT_DETAILS>
+    </PERSON_DETAILS>
+    <PERSON_DETAILS>
+      <PERSON_FIRST_NAME>Jamie</PERSON_FIRST_NAME>
+      <PERSON_LAST_NAME>Howard</PERSON_LAST_NAME>
+      <OCCUPATION>Chief Executive Officer</OCCUPATION>
+      <CONTACT_DETAILS>
+        <ADDRESS_DETAILS TYPE="Home">
+          <ADDRESS_LINE_1>Suite 43</ADDRESS_LINE_1>
+          <ADDRESS_LINE_2>89 Kent Street</ADDRESS_LINE_2>
+          <SUBURB>Central City</SUBURB>
+          <CITY>Sydney</CITY>
+          <COUNTRY>AUSTRALIA</COUNTRY>
+          <POSTCODE>NSW 2000</POSTCODE>
+        </ADDRESS_DETAILS>
+        <EMAIL TYPE="Work">j.howard@company.com.au</EMAIL>
+        <PHONE TYPE="Home">+61 2 9256 2222</PHONE>
+        <PHONE TYPE="Work">+61 2 9246 4621</PHONE>
+        <PHONE TYPE="Cell">+61 41 378 6787</PHONE>
+      </CONTACT_DETAILS>
+    </PERSON_DETAILS>
+    <PERSON_DETAILS>
+      <PERSON_FIRST_NAME>Wendy</PERSON_FIRST_NAME>
+      <PERSON_LAST_NAME>Jones</PERSON_LAST_NAME>
+      <OCCUPATION>Unemployed</OCCUPATION>
+      <CONTACT_DETAILS>
+        <ADDRESS_DETAILS TYPE="Home">
+          <ADDRESS_LINE_1>143 Darlinghurst Road</ADDRESS_LINE_1>
+          <ADDRESS_LINE_2/>
+          <SUBURB>Darlinghurst</SUBURB>
+          <CITY>Sydney</CITY>
+          <COUNTRY>AUSTRALIA</COUNTRY>
+          <POSTCODE/>
+        </ADDRESS_DETAILS>
+        <EMAIL TYPE="Home">wjones@hotmail.com</EMAIL>
+        <PHONE TYPE="Home">+61 2 9767 2514</PHONE>
+        <PHONE TYPE="Cell">+61 42 452 2578</PHONE>
+      </CONTACT_DETAILS>
+    </PERSON_DETAILS>
+    <PERSON_DETAILS>
+      <PERSON_FIRST_NAME>Joseph</PERSON_FIRST_NAME>
+      <PERSON_LAST_NAME>Publican</PERSON_LAST_NAME>
+      <OCCUPATION>IT Director</OCCUPATION>
+      <CONTACT_DETAILS>
+        <ADDRESS_DETAILS TYPE="Home">
+          <ADDRESS_LINE_1>Apartment 31</ADDRESS_LINE_1>
+          <ADDRESS_LINE_2>352 Customhouse Quay</ADDRESS_LINE_2>
+          <SUBURB>Central City</SUBURB>
+          <CITY>Auckland</CITY>
+          <COUNTRY>NEW ZEALAND</COUNTRY>
+          <POSTCODE>1001</POSTCODE>
+        </ADDRESS_DETAILS>
+        <EMAIL TYPE="Work">joe.public@itdirectors.co.nz</EMAIL>
+        <PHONE TYPE="Home">+64 9 522 8475</PHONE>
+        <PHONE TYPE="Work">+64 9 514 7522</PHONE>
+        <PHONE TYPE="Cell">+64 275 292 467</PHONE>
+      </CONTACT_DETAILS>
+    </PERSON_DETAILS>
+  </DEPT_PEOPLE>
+</ALL_PEOPLE_DETAILS>
