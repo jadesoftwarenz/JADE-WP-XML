@@ -1,6 +1,3 @@
-<a href="https://www.jadeworld.com/solutions-for/dev-partners/"><img src="" title="Jade Software" alt="Jade Software"></a>
-(Will be some kind of JADE banner)
-
 # Example files for the XML in JADE White Paper
 This repository the files referenced in the XML in JADE White Paper. It showcases the XML framework in JADE, which has been implemented to enable rapid development of XML applications and XML components.
 
