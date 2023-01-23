@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schema name="XMLWhitePaper" JadeVersionNumber="99.0.00" CompleteDefinition="true">
+	<Application name="GUI">
+		<__overridePatchNumber>0</__overridePatchNumber>
+		<__patchControlString/>
+		<_aboutFormName/>
+		<_defaultLocaleId>0</_defaultLocaleId>
+		<_modifiedBy>cnwhm6</_modifiedBy>
+		<_modifiedTimestamp/>
+		<_patchVersion>0</_patchVersion>
+		<_startupFormName/>
+		<_systemVersion/>
+		<aboutForm/>
+		<appVersion/>
+		<applicationType>G</applicationType>
+		<controlSpacing>4</controlSpacing>
+		<defaultApp>false</defaultApp>
+		<defaultMdi>false</defaultMdi>
+		<finalizeMethod/>
+		<fontBold>false</fontBold>
+		<fontName>MS Sans Serif</fontName>
+		<fontSize>8.25</fontSize>
+		<formMargin>7</formMargin>
+		<heightSingleLineControl>14</heightSingleLineControl>
+		<helpFile/>
+		<icon/>
+		<initializeMethod/>
+		<mdiStyle>0</mdiStyle>
+		<mdiWindowListOrder>0</mdiWindowListOrder>
+		<name>GUI</name>
+		<showBubbleHelp>false</showBubbleHelp>
+		<startupForm/>
+		<useBorderStyleOnly>true</useBorderStyleOnly>
+		<webMinimumResponseTime>0</webMinimumResponseTime>
+		<threeDControls>
+			<GUIClass name="CheckBox" />
+			<GUIClass name="GroupBox" />
+			<GUIClass name="OptionButton" />
+		</threeDControls>
+	</Application>
+	<Application name="XMLWhitePaper">
+		<__overridePatchNumber>0</__overridePatchNumber>
+		<__patchControlString/>
+		<_aboutFormName/>
+		<_defaultLocaleId>0</_defaultLocaleId>
+		<_internetPipeName>XMLWhitePaper</_internetPipeName>
+		<_modifiedBy>cnwhm6</_modifiedBy>
+		<_modifiedTimestamp/>
+		<_numberOfPipes>1</_numberOfPipes>
+		<_patchVersion>0</_patchVersion>
+		<_startupFormName/>
+		<_systemVersion/>
+		<_webAppDirectory/>
+		<_webBaseURL/>
+		<_webDefaultTimeZone/>
+		<_webDisplayMessages>false</_webDisplayMessages>
+		<_webDisplayPreference>N</_webDisplayPreference>
+		<_webFinalizeMethod/>
+		<_webHomePage/>
+		<_webInitializeMethod/>
+		<_webIsSecure>false</_webIsSecure>
+		<_webMachineName>cnwls1a</_webMachineName>
+		<_webMaxHTMLSize>0</_webMaxHTMLSize>
+		<_webServiceClasses> XMLWhitePaper</_webServiceClasses>
+		<_webSessionTimeout>0</_webSessionTimeout>
+		<_webShowContent>false</_webShowContent>
+		<_webShowModal>false</_webShowModal>
+		<_webStartupForm/>
+		<_webStartupFormName/>
+		<_webStatusLineDisplay/>
+		<_webUseHTML32>false</_webUseHTML32>
+		<_webVirtualDirectory>xmlweb</_webVirtualDirectory>
+		<aboutForm/>
+		<appVersion/>
+		<applicationType>W</applicationType>
+		<controlSpacing>4</controlSpacing>
+		<defaultApp>true</defaultApp>
+		<defaultMdi>false</defaultMdi>
+		<finalizeMethod/>
+		<fontBold>false</fontBold>
+		<fontName>MS Sans Serif</fontName>
+		<fontSize>8.25</fontSize>
+		<formMargin>7</formMargin>
+		<heightSingleLineControl>14</heightSingleLineControl>
+		<helpFile/>
+		<icon/>
+		<initializeMethod/>
+		<mdiStyle>0</mdiStyle>
+		<mdiWindowListOrder>0</mdiWindowListOrder>
+		<name>XMLWhitePaper</name>
+		<showBubbleHelp>false</showBubbleHelp>
+		<startupForm/>
+		<useBorderStyleOnly>false</useBorderStyleOnly>
+		<webMinimumResponseTime>0</webMinimumResponseTime>
+		<threeDControls>
+			<GUIClass name="CheckBox" />
+			<GUIClass name="GroupBox" />
+			<GUIClass name="OptionButton" />
+		</threeDControls>
+		<jadeWebServiceManager>
+			<_allowedSchemes/>
+			<_exposureList/>
+			<_useSOAP11>false</_useSOAP11>
+			<_useSOAP12>false</_useSOAP12>
+			<application name="XMLWhitePaper" />
+			<handleCircularReferences>false</handleCircularReferences>
+			<jadeWebServiceProvider/>
+			<name/>
+			<provider>true</provider>
+			<secureService>false</secureService>
+			<sessionHandling>false</sessionHandling>
+			<soapException/>
+			<supportLibrary>jadehttp.dll</supportLibrary>
+			<targetNamespace/>
+			<useHttpGet>false</useHttpGet>
+			<useHttpPost>true</useHttpPost>
+			<useRPC>false</useRPC>
+			<versionControl>false</versionControl>
+		</jadeWebServiceManager>
+	</Application>
+
+	<Global name="GXMLWhitePaper">
+	</Global>
+</schema>
