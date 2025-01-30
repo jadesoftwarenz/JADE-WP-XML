@@ -2,7 +2,7 @@
 This repository contains **XMLWhitePaper**, an example JADE schema that accompanies the **XML in JADE** white paper.
 
 ## Documentation
-The accompanying white paper that also contains instructions for usage of the **XMLWhitePaper** schema can be found at https://www.jadeworld.com/jade-platform/developer-centre/documentation/white-papers
+The accompanying white paper that also contains instructions for usage of the **XMLWhitePaper** schema can be found at https://www.jadeplatform.com/developer-centre/learn/whitepapers
 
 ## Getting Started
 These instructions describe how to load the schema for usage on your machine.
@@ -11,10 +11,10 @@ These instructions describe how to load the schema for usage on your machine.
 
 Before you can load the schemas, you need JADE 2022 installed. If you are still on JADE 2020, you can load the schemas found in the v2020 branch of the repository.
 
-You may also be able to find versions of the schema for usage with older versions of JADE at https://www.jadeworld.com/jade-platform/developer-centre/documentation/white-papers under the **Archived** section at the bottom, although this is not guaranteed.
+You may also be able to find versions of the schema for usage with older versions of JADE at https://www.jadeplatform.com/developer-centre/learn/whitepapers under the **Archived** section at the bottom, although this is not guaranteed.
 
-1. Grab a FREE Developer's license at https://secure.jadeworld.com/devlicense/.
-2. Download the JADE 2022 release at https://www.jadeworld.com/developer-center/download-jade .
+1. Grab a FREE Developer's license at https://secure.jadeworld.com/devlicense.
+2. Download the JADE 2022 release at https://www.jadeplatform.com/developer-centre/downloads.
 3. Open the installer and follow the instructions in the install wizard.
 4. JADE is now installed, and a shortcut has been placed in your Start menu. You're good to go!
 
@@ -46,7 +46,7 @@ You may also be able to find versions of the schema for usage with older version
 > The schemas contained in this repository are for demonstration purposes, and as such, are not open to pull requests. However, you are welcome to create a fork and make changes to your own copy, subject to our license ([LICENSE.txt](LICENSE.txt)).
 
 **Q.** What can I do with the **XMLWhitePaper** schema?
-> Refer to the **XML in JADE** white paper found at https://www.jadeworld.com/jade-platform/developer-centre/documentation/white-papers for detailed instructions on using the schema as well as exaplanations of the concepts it demonstrates.
+> Refer to the **XML in JADE** white paper found at https://www.jadeplatform.com/developer-centre/learn/whitepapers for detailed instructions on using the schema as well as exaplanations of the concepts it demonstrates.
 
 
 ## License
