@@ -13,7 +13,7 @@ Before you can load the schemas, you need JADE 2022 installed. If you are still 
 
 You may also be able to find versions of the schema for usage with older versions of JADE at https://www.jadeplatform.com/developer-centre/learn/whitepapers under the **Archived** section at the bottom, although this is not guaranteed.
 
-1. Grab a FREE Developer's license at https://secure.jadeworld.com/devlicense.
+1. Grab a FREE Developer's license at https://www.jadeplatform.com/developer-centre/licensing/free-development-licence.
 2. Download the JADE 2022 release at https://www.jadeplatform.com/developer-centre/downloads.
 3. Open the installer and follow the instructions in the install wizard.
 4. JADE is now installed, and a shortcut has been placed in your Start menu. You're good to go!
